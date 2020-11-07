@@ -1,0 +1,35 @@
+/***************GENERAL***************/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: #000;
+  font-family: Verdana, sans-serif;
+}
+
+/***************HEADER***************/
+
+header {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+h1 {
+  color: #fff;
+  font-size: 5rem;
+  font-weight: normal;
+  margin-bottom: 4rem;
+}
+
+a {
+  color: aquamarine;
+  font-size: 1.6rem;
+}
